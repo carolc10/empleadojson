@@ -7,7 +7,7 @@
                 "{" +
                 " \"nombre\" : \"Shyam\" ," +
                 " \"email\" : \"shyam23@gmail.com\" ," +
-                " \"edad\" : 36}" +
+                " \"edad\" : 36}," +
 
 		"{" +
                 " \"nombre\" : \"Juan\" ," +
@@ -47,6 +47,6 @@
 		"{" +
                 " \"nombre\" : \"Grissel\" ," +
                 " \"email\" : \"gris158@gmail.com\" ," +
-                " \"edad\" : 24}," +
+                " \"edad\" : 24}" +
                 " ]" +
                 " }"

@@ -1,52 +1,53 @@
-
-  {
+{
+  "Empleado 1":{
     "nombre": "Ramon",
-    "email":"ram@gmail.com",
+    "email": "ram@gmail.com",
     "edad": 23
   },
-  {
+  "Empleado 2":{
     "nombre": "Shyam",
-    "email":"shyam23@gmail.com",
+    "email": "shyam23@gmail.com",
     "edad": 36
   },
-  {
+  "Empleado 3":{
     "nombre": "Juan",
-    "email":"johngmail.com",
+    "email": "johngmail.com",
     "edad": 33
   },
-  {
+  "Empleado 4":{
     "nombre": "Bob",
-    "email":"bob32@gmail.com",
+    "email": "bob32@gmail.com",
     "edad": 41
   },
-  {
+  "Empleado 5":{
     "nombre": "Misael",
-    "email":"misael123@gmail.com",
+    "email": "misael123@gmail.com",
     "edad": 30
   },
-  {
+  "Empleado 6":{
     "nombre": "Magdiel",
-    "email":"magdiel45@gmail.com",
+    "email": "magdiel45@gmail.com",
     "edad": 21
   },
-  {
+  "Empleado 7":{
     "nombre": "Antonio",
-    "email":"antoniosantos@gmail.com",
+    "email": "antoniosantos@gmail.com",
     "edad": 26
   },
-  {
+  "Empleado 8":{
     "nombre": "Cesar",
-    "email":"cesarmm@gmail.com",
+    "email": "cesarmm@gmail.com",
     "edad": 25
   },
-  {
+  "Empleado 9":{
     "nombre": "Alberto",
-    "email":"ramosalberto@gmail.com",
+    "email": "ramosalberto@gmail.com",
     "edad": 24
   },
-  {
+  "Empleado 10":{
     "nombre": "Grissel",
-    "email":"gris1996@gmail.com",
+    "email": "gris1996@gmail.com",
     "edad": 24
   }
+}
  

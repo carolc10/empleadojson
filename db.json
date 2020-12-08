@@ -1,11 +1,11 @@
 {
 	"empleados" : 
 	[ 
-                {
-		" \"nombre\" : "\"Ramon\" ,
+                "{"
+		" \"nombre\" : \"Ramon\" ,
                 " \"email\" : \"ram@gmail.com\" , 
                 " \"edad\" : 23
-		},
+		"}",
 
                 {
                 " \"nombre\" : \"Shyam\" ," 

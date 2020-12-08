@@ -46,8 +46,8 @@
                 " \edad\" : 24},
 
 		{
-                " \"nombre\" : \"Grissel\" ,
-                " \"email\" : \"gris158@gmail.com\" ,
-                " \"edad\" : 24}
+                " \nombre\" : \"Grissel\" ,
+                " \email\" : \"gris158@gmail.com\" ,
+                " \edad\" : 24}
                 ]
 }

@@ -1,5 +1,6 @@
 {
-	"empleados" : [ 
+	"empleados" : 
+	[ 
                 {
                 " \nombre\" : \"Ramon\" ,"
                 " \"email\" : \"ram@gmail.com\" ," 
@@ -50,5 +51,5 @@
                 " \"nombre\" : \"Grissel\" ," +
                 " \"email\" : \"gris158@gmail.com\" ," +
                 " \"edad\" : 24}" 
-                ]
-                }
+         ]
+}

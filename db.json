@@ -2,8 +2,8 @@
 	"empleados" : 
 	[ 
                 {
-                " \nombre\" : \"Ramon\" ,"
-                " \"email\" : \"ram@gmail.com\" ," 
+                " \nombre\" : \"Ramon\" ,
+                 \"email\" : \"ram@gmail.com\" ," 
                 " \"edad\" : 23
 		},"
 

@@ -1,21 +1,19 @@
-{
-	"empleados" : [ 
-                {
-		"nombre" : "Ramon" ,
-                "email" : "ram@gmail.com" , 
-                "edad" : 23
-		},
+"{ \"empleados\" : [ " +
+                "{" +
+                " \"nombre\" : \"Ramon\" ," +
+                " \"email\" : \"ram@gmail.com\" ," +
+                " \"edad\" : 23}," +
 
-                {
-                " \"nombre\" : \"Shyam\" ," 
-                " \"email\" : \"shyam23@gmail.com\" ," 
-                " \"edad\" : 36}," 
+                "{" +
+                " \"nombre\" : \"Shyam\" ," +
+                " \"email\" : \"shyam23@gmail.com\" ," +
+                " \"edad\" : 36}" +
 
-		{
-                " \"nombre\" : \"Juan\" ," 
-                " \"email\" : \"john@gmail.com\" ," 
-                " \"edad\" : 33}," 
-		
+		"{" +
+                " \"nombre\" : \"Juan\" ," +
+                " \"email\" : \"john@gmail.com\" ," +
+                " \"edad\" : 33}," +	
+
 		"{" +
                 " \"nombre\" : \"Bob\" ," +
                 " \"email\" : \"bob32@gmail.com\" ," +
@@ -30,7 +28,7 @@
                 " \"nombre\" : \"Magdiel\" ," +
                 " \"email\" : \"magdiel14@gmail.com\" ," +
                 " \"edad\" : 21}," +	
-		
+
 		"{" +
                 " \"nombre\" : \"Antonio\" ," +
                 " \"email\" : \"antoniosantos@gmail.com\" ," +
@@ -49,6 +47,6 @@
 		"{" +
                 " \"nombre\" : \"Grissel\" ," +
                 " \"email\" : \"gris158@gmail.com\" ," +
-                " \"edad\" : 24}" 
-         ]
-}
+                " \"edad\" : 24}," +
+                " ]" +
+                " }"

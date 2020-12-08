@@ -4,15 +4,15 @@
                 " \"email\" : \"ram@gmail.com\" ," 
                 " \"edad\" : 23}," 
 
-                "{" +
+                {
                 " \"nombre\" : \"Shyam\" ," 
                 " \"email\" : \"shyam23@gmail.com\" ," 
                 " \"edad\" : 36}," 
 
-		"{" +
-                " \"nombre\" : \"Juan\" ," +
-                " \"email\" : \"john@gmail.com\" ," +
-                " \"edad\" : 33}," +	
+		{
+                " \"nombre\" : \"Juan\" ," 
+                " \"email\" : \"john@gmail.com\" ," 
+                " \"edad\" : 33}," 
 		
 		"{" +
                 " \"nombre\" : \"Bob\" ," +

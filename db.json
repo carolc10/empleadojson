@@ -1,52 +1,42 @@
-"{ \"empleados\" : [ " +
-                "{" +
-                " \"nombre\" : \"Ramon\" ," +
-                " \"email\" : \"ram@gmail.com\" ," +
-                " \"edad\" : 23}," +
-
-                "{" +
-                " \"nombre\" : \"Shyam\" ," +
-                " \"email\" : \"shyam23@gmail.com\" ," +
-                " \"edad\" : 36}" +
-
-		"{" +
-                " \"nombre\" : \"Juan\" ," +
-                " \"email\" : \"john@gmail.com\" ," +
-                " \"edad\" : 33}," +	
-
-		"{" +
-                " \"nombre\" : \"Bob\" ," +
-                " \"email\" : \"bob32@gmail.com\" ," +
-                " \"edad\" : 41}," +
-
-		"{" +
-                " \"nombre\" : \"Misael\" ," +
-                " \"email\" : \"misa12332@gmail.com\" ," +
-                " \"edad\" : 30}," +
-
-		"{" +
-                " \"nombre\" : \"Magdiel\" ," +
-                " \"email\" : \"magdiel14@gmail.com\" ," +
-                " \"edad\" : 21}," +	
-
-		"{" +
-                " \"nombre\" : \"Antonio\" ," +
-                " \"email\" : \"antoniosantos@gmail.com\" ," +
-                " \"edad\" : 26}," +
-
-		"{" +
-                " \"nombre\" : \"Cesar\" ," +
-                " \"email\" : \"cesarsdom@gmail.com\" ," +
-                " \"edad\" : 25}," +
-
-		"{" +
-                " \"nombre\" : \"Alberto\" ," +
-                " \"email\" : \"albertoramos1@gmail.com\" ," +
-                " \"edad\" : 24}," +
-
-		"{" +
-                " \"nombre\" : \"Grissel\" ," +
-                " \"email\" : \"gris158@gmail.com\" ," +
-                " \"edad\" : 24}," +
-                " ]" +
-                " }"
+{
+ "localidade 1": {
+  "Continente": "África",
+  "País": "Angola",
+  "Capital": "Luanda"
+ },
+ "localidade 2": {
+  "Continente": "América do Norte",
+  "País": "Estados Unidos",
+  "Capital": "Washington DC"
+ },
+ "localidade 3": {
+  "Continente": "América Central",
+  "País": "México",
+  "Capital": "Cidade do México"
+ },
+ "localidade 4": {
+  "Continente": "América do Sul",
+  "País": "Brasil",
+  "Capital": "Brasília"
+ },
+ "localidade 5": {
+  "Continente": "Europa",
+  "País": "Espanha",
+  "Capital": "Madri"
+ },
+ "localidade 6": {
+  "Continente": "Europa",
+  "País": "Alemanha",
+  "Capital": "Berlim"
+ },
+ "localidade 7": {
+  "Continente": "Oceania",
+  "País": "Austrália",
+  "Capital": "Camberra"
+ },
+  "localidade 8": {
+  "Continente": "Ásia",
+  "País": "Japão",
+  "Capital": "Tóquio"
+ }
+}

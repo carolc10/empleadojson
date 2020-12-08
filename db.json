@@ -1,6 +1,5 @@
 {
-	"empleados" : 
-	[ 
+	"empleados" : [ 
                 {
 		"nombre" : "Ramon" ,
                 "email" : "ram@gmail.com" , 

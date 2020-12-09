@@ -1,0 +1,14 @@
+{
+  "empleados": [
+    {"nombre": "Ramon", "email": "ram@gmail.com", "edad": 23},
+    {"nombre": "Shyam", "email": "shyam23@gmail.com", "edad": 36},
+    {"nombre": "Juan", "email": "johngmail.com", "edad": 33},
+    {"nombre": "Bob", "email": "bob32@gmail.com", "edad": 41},
+    {"nombre": "Misael", "email": "misael123@gmail.com", "edad": 30},
+    {"nombre": "Magdiel", "email": "magdiel45@gmail.com", "edad": 21},
+    {"nombre": "Antonio", "email": "antoniosantos@gmail.com", "edad": 26},
+    {"nombre": "Cesar", "email": "cesarmm@gmail.com", "edad": 25},
+    {"nombre": "Alberto", "email": "ramosalberto@gmail.com", "edad": 24},
+    {"nombre": "Grissel", "email": "gris1996@gmail.com", "edad": 24}
+    ]
+}
